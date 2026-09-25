@@ -1,0 +1,13 @@
+# DOS/Assembly build outputs
+*.obj
+*.exe
+*.com
+*.map
+*.lst
+*.bin
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
