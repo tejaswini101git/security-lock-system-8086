@@ -1,4 +1,4 @@
-# 🔐 Security Lock System — 8086 Assembly! hey
+# 🔐 Security Lock System — 8086 Assembly
 
 A password-based security lock system developed as a **CAALP (Assembly Language Programming) Project Based Learning (PBL)** project using **8086 Assembly Language**.
 
@@ -8,7 +8,7 @@ The project demonstrates low-level programming concepts including registers, mem
 
 The system simulates a basic access-control mechanism:
 
-1. Prompts the user to enter a password.
+1. Prompts the user to enter a password.ikikkk
 2. Accepts the password character-by-character.
 3. Displays `*` instead of the entered characters.
 4. Compares the entered password with the predefined password.
